@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Main {
+class Lab2 {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in) ) {
             System.out.print("Enter your text: ");
