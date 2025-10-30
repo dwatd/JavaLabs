@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-class Main {
+class Lab1 {
     public static void main(String[] args) {
       
         try (Scanner scan = new Scanner(System.in)) {
